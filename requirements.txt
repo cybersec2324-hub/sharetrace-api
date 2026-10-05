@@ -2,4 +2,4 @@ fastapi
 requests
 cloudscraper
 curl-cffi
-sharetrace @ git+https://github.com/soxoj/sharetrace.git@main
+sharetrace-osint @ git+https://github.com/soxoj/sharetrace.git@main
